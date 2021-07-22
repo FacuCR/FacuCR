@@ -7,7 +7,7 @@ Soy un estudiante de la carrera Programador Universitario en la <a href="https:/
 - 🤞 Un dia espero volverme un experto y ser una pieza fundamental en un proyecto digital.
 
 <div align="center">
-  <h3 align="center">Nos pongamos en contacto!!!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Charlemos!!!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/facundocr/" target="blank">
