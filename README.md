@@ -13,12 +13,13 @@ Soy un estudiante de la carrera Programador Universitario en la <a href="https:/
  <a href="https://www.linkedin.com/in/facundocr/" target="blank">
   <img align="center" alt="LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://www.instagram.com/facucastro302/" target="blank">
-  <img align="center" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
   
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=FacuCr.FacuCR&color=00cf00)
 <!--
+ <a href="https://www.instagram.com/facucastro302/" target="blank">
+  <img align="center" alt="Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+
 **FacuCR/FacuCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
