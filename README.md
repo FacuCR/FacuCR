@@ -1,11 +1,11 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hola mundo, soy Facundo Castro!
-Soy un estudiante de la carrera Programador Universitario en la <a href="https://www.facet.unt.edu.ar//"><b>FACET UNT</b></a>. Desde muy temprano en mi vida, comencé a enamorarme de la tecnología 😍 Eso me ha ayudado a ser  curioso y querer aprender mas sobre la tecnología <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>. Creo firmemente que siempre se puede mejorar <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> y aprender más. 🧠
+Soy un estudiante de la carrera Programador Universitario en la <a href="https://www.facet.unt.edu.ar//"><b>FACET UNT</b></a>. Desde muy temprano en mi vida, comenczo a gustarme de la tecnología 😍 Eso me ha ayudado a ser  curioso y querer aprender mas <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>. Creo firmemente que siempre se puede mejorar <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> y aprender algo nuevo. 🧠
 <br/>
-### En lo que me estoy enfocando ahora 👨‍💻
+<!--### En lo que me estoy enfocando ahora 👨‍💻
 - 💪 Actualmente estoy completando mis habilidades en JavaScript.
 - 🎯 Proximos objetivos: Nodejs y React.
 - 🤞 Un dia espero volverme un experto y ser una pieza fundamental en un proyecto digital.
-
+-->
 <div align="center">
   <h3 align="center">Charlemos!!!<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
